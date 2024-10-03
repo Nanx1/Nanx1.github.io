@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Nanx1.github.io/</loc>
-    <lastmod>2024-09-30T21:08:20+08:00</lastmod>
+    <lastmod>2024-10-03T17:37:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,11 @@
                 href="https://Nanx1.github.io/"
                 />
   </url><url>
-    <loc>https://Nanx1.github.io/p/myfirstblog/</loc>
-    <lastmod>2024-09-30T21:08:20+08:00</lastmod>
+    <loc>https://Nanx1.github.io/p/newnewnew/</loc>
+    <lastmod>2024-10-03T17:37:10+08:00</lastmod>
   </url><url>
     <loc>https://Nanx1.github.io/post/</loc>
-    <lastmod>2024-09-30T21:08:20+08:00</lastmod>
+    <lastmod>2024-10-03T17:37:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,9 @@
                 hreflang="zh-cn"
                 href="https://Nanx1.github.io/post/"
                 />
+  </url><url>
+    <loc>https://Nanx1.github.io/p/myfirstblog/</loc>
+    <lastmod>2024-09-30T21:08:20+08:00</lastmod>
   </url><url>
     <loc>https://Nanx1.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
